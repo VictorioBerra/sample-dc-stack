@@ -13,3 +13,7 @@ services:
   whoami3:
     image: "traefik/whoami"
     container_name: "simple-service3"
+
+  whoami4:
+    image: "traefik/whoami"
+    container_name: "simple-service4"    
